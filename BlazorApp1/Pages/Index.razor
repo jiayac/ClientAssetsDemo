@@ -1,0 +1,22 @@
+﻿@page "/"
+@using RazorClassLibrary1;
+@inject ExampleJsInterop JS
+
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+
+<button @onclick="CallJsInterop">Do JS interop</button>
+<p>@color</p>
+
+@code {
+    string color = "";
+    public async Task CallJsInterop()
+    {
+        color = await JS.Prompt("What's your favorite color?");
+    }
+}

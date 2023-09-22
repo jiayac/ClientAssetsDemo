@@ -1,0 +1,7 @@
+C:\Users\jiayanchen\source\repos\WebApplication8\WebApplication8\obj\Release\net7.0\PubTmp\Out\WebApplication8.exe
+C:\Users\jiayanchen\source\repos\WebApplication8\WebApplication8\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jiayanchen\source\repos\WebApplication8\WebApplication8\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\jiayanchen\source\repos\WebApplication8\WebApplication8\obj\Release\net7.0\PubTmp\Out\WebApplication8.dll
+C:\Users\jiayanchen\source\repos\WebApplication8\WebApplication8\obj\Release\net7.0\PubTmp\Out\WebApplication8.deps.json
+C:\Users\jiayanchen\source\repos\WebApplication8\WebApplication8\obj\Release\net7.0\PubTmp\Out\WebApplication8.runtimeconfig.json
+C:\Users\jiayanchen\source\repos\WebApplication8\WebApplication8\obj\Release\net7.0\PubTmp\Out\WebApplication8.pdb
